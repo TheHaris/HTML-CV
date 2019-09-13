@@ -9,13 +9,13 @@ h2 {
 	text-align: center;
 	border: 3px solid black;
 	padding: 4px;
-	margin-left: 5px;
-	margin-right: 5px;
+	margin-left: 11px;
+	margin-right: 20px;
 	box-shadow: 6px 6px 0px rgb(58, 54, 54);
 }
 body {	
 		font-size: 1.1em;
-		font-family: arial, sans-serif;
+		font-family: 'Montserrat', sans-serif;
 		text-align: justify;
 		background-color: rgb(220, 213, 229);
 }
@@ -24,6 +24,8 @@ h1 {
 		color: rgb(58, 52, 52);
 		text-align: center;
 		font-weight: bold;
+		margin-right: 115px;
+		margin-left: 110px;
 }
 
 .centre {
@@ -41,4 +43,14 @@ h1 {
 }
 .bold {
 		font-weight: bold;
+}
+.image {
+		border: 4px solid black;
+		float: right;
+		height: 220px;
+		margin-right: 22px;
+		box-shadow: 5px -3px black;
+}
+.marge {
+	margin-left: 18px;
 }

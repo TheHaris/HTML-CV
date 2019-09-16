@@ -50,6 +50,8 @@ h1 {
 		height: 220px;
 		margin-right: 22px;
 		box-shadow: 5px -3px black;
+		background: no-repeat;
+
 }
 .marge {
 	margin-left: 18px;
